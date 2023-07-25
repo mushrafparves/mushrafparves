@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mushrafparves" alt="mushrafparves" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/parvesmushraf" target="blank"><img src="https://img.shields.io/twitter/follow/parvesmushraf?logo=twitter&style=for-the-badge" alt="parvesmushraf" /></a> </p>
-
 - 🔭 I’m currently working on Infinire Innovative Software Solutions **Test Engineer Trainee**
 
 - 🌱 I’m currently learning **API Testing**
