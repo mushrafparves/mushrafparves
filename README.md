@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/mushrafparves/mushrafparves/main/ParvesMushrafSF.gif)]<!-- If you want the template for my gif, email me! -->
+![](https://raw.githubusercontent.com/mushrafparves/mushrafparves/main/ParvesMushrafSF.gif)<!-- If you want the template for my gif, email me! -->
 
 - 🔭 I’m currently working on Infinire Innovative Software Solutions **Test Engineer Trainee**
 
