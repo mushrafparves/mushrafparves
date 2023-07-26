@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parves Mushraf A</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+[![](https://raw.githubusercontent.com/mushrafparves/mushrafparves/main/ParvesMushrafGif.gif)]<!-- If you want the template for my gif, email me! -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushrafparves&label=Profile%20views&color=0e75b6&style=flat" alt="mushrafparves" /> </p>
 
