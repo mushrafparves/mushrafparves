@@ -1,9 +1,5 @@
 [![](https://raw.githubusercontent.com/mushrafparves/mushrafparves/main/ParvesMushrafGif.gif)]<!-- If you want the template for my gif, email me! -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mushrafparves&label=Profile%20views&color=0e75b6&style=flat" alt="mushrafparves" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mushrafparves" alt="mushrafparves" /></a> </p>
-
 - 🔭 I’m currently working on Infinire Innovative Software Solutions **Test Engineer Trainee**
 
 - 🌱 I’m currently learning **API Testing**
