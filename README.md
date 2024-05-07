@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/mushrafparves/mushrafparves/main/ParvesMushrafSF.gif)<!-- If you want the template for my gif, email me! -->
 
-- 🔭 I’m currently working on Infinire Innovative Software Solutions **Test Engineer Trainee**
+- 🔭 I’m currently working on Advento Technologies **Software Engineer Trainee**
 
-- 🌱 I’m currently learning **API Testing**
+- 🌱 I’m currently learning **Java and SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mushrafparves/Portofolio/tree/main/Portofolio](https://github.com/mushrafparves/Portofolio/tree/main/Portofolio)
 
